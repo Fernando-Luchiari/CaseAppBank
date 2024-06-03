@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.ItauTransferApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/colorTextPrimary</item>
+        <item name="colorSecondary">@color/colorBackground</item>
+        <item name="colorSecondaryVariant">@color/colorAccent</item>
+        <item name="colorOnSecondary">@color/colorTextSecondary</item>
+        <item name="android:statusBarColor">?attr/colorSecondary</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+</resources>
